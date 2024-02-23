@@ -5,8 +5,8 @@
 
 
 爬取数据展示
-![](img/fy.png)
-![](img/weibo.png)
+![](./fy.png)
+![](./weibo.png)
 
 ### 使用方法
 爬虫主文件：
